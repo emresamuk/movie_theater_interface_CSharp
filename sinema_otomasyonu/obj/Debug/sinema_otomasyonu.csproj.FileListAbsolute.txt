@@ -1,0 +1,53 @@
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.exe.config
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.exe
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.pdb
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.frmAnasayfa.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.frmFilmEkle.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.frmSalonEkle.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.frmSeansEkle.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.frmSeansGörüntüle.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.exe
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.pdb
+C:\Users\İlkay\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.mdf
+C:\Users\İlkay\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu_log.ldf
+C:\Users\İlkay\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.exe.config
+C:\Users\İlkay\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.exe
+C:\Users\İlkay\Desktop\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.pdb
+C:\Users\İlkay\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\İlkay\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\İlkay\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.frmAnasayfa.resources
+C:\Users\İlkay\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.frmFilmEkle.resources
+C:\Users\İlkay\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.frmSalonEkle.resources
+C:\Users\İlkay\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.frmSeansEkle.resources
+C:\Users\İlkay\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.frmSeansGörüntüle.resources
+C:\Users\İlkay\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.Properties.Resources.resources
+C:\Users\İlkay\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.GenerateResource.cache
+C:\Users\İlkay\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\İlkay\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.exe
+C:\Users\İlkay\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.pdb
+C:\Users\İlkay\Desktop\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.frmSatışListele.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.mdf
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu_log.ldf
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel programlama\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.frmSatışListele.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\gerekli gereksiz herşey\projeler\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.mdf
+C:\Users\LENOVO\OneDrive\Masaüstü\gerekli gereksiz herşey\projeler\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu_log.ldf
+C:\Users\LENOVO\OneDrive\Masaüstü\gerekli gereksiz herşey\projeler\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.exe.config
+C:\Users\LENOVO\OneDrive\Masaüstü\gerekli gereksiz herşey\projeler\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.exe
+C:\Users\LENOVO\OneDrive\Masaüstü\gerekli gereksiz herşey\projeler\sinema_otomasyonu\sinema_otomasyonu\bin\Debug\sinema_otomasyonu.pdb
+C:\Users\LENOVO\OneDrive\Masaüstü\gerekli gereksiz herşey\projeler\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\gerekli gereksiz herşey\projeler\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.frmAnasayfa.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\gerekli gereksiz herşey\projeler\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.frmFilmEkle.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\gerekli gereksiz herşey\projeler\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.frmSalonEkle.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\gerekli gereksiz herşey\projeler\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.frmSatışListele.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\gerekli gereksiz herşey\projeler\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.frmSeansEkle.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\gerekli gereksiz herşey\projeler\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.frmSeansGörüntüle.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\gerekli gereksiz herşey\projeler\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\gerekli gereksiz herşey\projeler\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\gerekli gereksiz herşey\projeler\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\gerekli gereksiz herşey\projeler\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.exe
+C:\Users\LENOVO\OneDrive\Masaüstü\gerekli gereksiz herşey\projeler\sinema_otomasyonu\sinema_otomasyonu\obj\Debug\sinema_otomasyonu.pdb
